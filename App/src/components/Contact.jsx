@@ -27,7 +27,7 @@ function Contact() {
   async function handleSubmit(event) {
     event.preventDefault();
     setButtonText("Sending...");
-    let response = await fetch("http://localhost:5000/contact", {
+    let response = await fetch("https://portfolio-contact-api-chi.vercel.app/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
