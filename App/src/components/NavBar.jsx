@@ -55,7 +55,7 @@ function NavBar(props) {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a target="_blank" href="https://www.linkedin.com/in/smatifakhreddine/"><i className="fa-brands fa-linkedin"/></a>
+                <a target="_blank" href="https://www.linkedin.com/in/smati-fakhreddine/"><i className="fa-brands fa-linkedin"/></a>
                 <a target="_blank" href="https://github.com/SmatiFakhreddine"><i className="fa-brands fa-github" /></a>
               </div>
               <Nav.Link href="#connect">

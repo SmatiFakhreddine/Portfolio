@@ -14,7 +14,7 @@ function Footer() {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a target="_blank" href="https://www.linkedin.com/in/smatifakhreddine/"><i className="fa-brands fa-linkedin"/></a>
+              <a target="_blank" href="https://www.linkedin.com/in/smati-fakhreddine/"><i className="fa-brands fa-linkedin"/></a>
               <a target="_blank" href="https://github.com/SmatiFakhreddine"><i className="fa-brands fa-github" /></a>
             </div>
             <p>Copyright {date}. All Rights Reserved</p>
